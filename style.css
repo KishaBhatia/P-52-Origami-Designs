@@ -1,0 +1,178 @@
+h1{
+    color:brown;
+    background-color:#e9aa0c;
+    border:solid;
+    text-align:center;
+    margin-left:350px;
+    margin-right:350px;
+}
+.about{
+    color:#ff4530;
+    border:solid;
+}
+img{
+    color:#b700ff;
+    border:solid;
+}
+a:link{
+    color:#dc143c;
+    text-decoration:none;
+}
+a:visited{
+    color:#000080;
+    text-decoration:none;
+}
+.follow{
+    background-color:#7fffd4;
+    display:flex;
+    justify-content:space-evenly;
+}
+.heading{
+    background-color:#74a460;
+}
+.header{
+    background-color: #9ef495;
+    border-style: ridge;
+    border-color:#000f94;
+    border-width: 8px;
+}
+.header h1{
+    background-color:#e9aa0c;
+    margin-left:380px;
+}
+.header a{
+    background-color:#ff8cd3;
+    border-style:double;
+    border-color:#5a0147;
+    border-width:3px;
+    margin-left:450px;
+}
+.grid{
+    border:dashed;
+}
+.projects{
+    background-color:#00ff7f;
+    border:solid
+}.crane{
+    background-color: wheat;
+    border:dashed;
+    display:flex;
+}
+.crane p{
+    position:absolute;
+    top:10%;
+    left:10%;
+    transform:translate(-50%,-50%);
+    opacity:0;
+}
+.crane:hover p{
+    opacity:1;
+}
+.crane:hover img{
+    opacity:0.5;
+}
+.butterfly{
+    background-color: wheat;
+    border:dashed;
+    display:flex;
+}
+.butterfly p{
+    position:absolute;
+    top:10%;
+    left:10%;
+    transform:translate(-50%,-50%);
+    opacity:0;
+}
+.butterfly:hover p{
+    opacity:1;
+}
+.butterfly:hover img{
+    opacity:0.5;
+}
+.frog{
+    background-color: wheat;
+    border:dashed;
+    display:flex;
+}
+.frog p{
+    position:absolute;
+    top:10%;
+    left:10%;
+    transform:translate(-50%,-50%);
+    opacity:0;
+}
+.frog:hover p{
+    opacity:1;
+}
+.frog:hover img{
+    opacity:0.5;
+}
+.hummingbird{
+    background-color: wheat;
+    border:dashed;
+    display:flex;
+}
+.hummingbird p{
+    position:absolute;
+    top:10%;
+    left:10%;
+    transform:translate(-50%,-50%);
+    opacity:0;
+}
+.hummingbird:hover p{
+    opacity:1;
+}
+.hummingbird:hover img{
+    opacity:0.5;
+}
+.rabbit{
+    background-color: wheat;
+    border:dashed;
+    display:flex;
+}
+.rabbit p{
+    position:absolute;
+    top:10%;
+    left:10%;
+    transform:translate(-50%,-50%);
+    opacity:0;
+}
+.rabbit:hover p{
+    opacity:1;
+}
+.rabbit:hover img{
+    opacity:0.5;
+}
+.turtle{
+    background-color: wheat;
+    border:dashed;
+    display:flex;
+}
+.turtle p{
+    position:absolute;
+    top:10%;
+    left:10%;
+    transform:translate(-50%,-50%);
+    opacity:0;
+}
+.turtle:hover p{
+    opacity:1;
+}
+.turtle:hover img{
+    opacity:0.5;
+}
+.info{
+    display:flex;
+    justify-content:flex-end;
+}
+.image:hover{
+    transform:scale(1.2);
+}
+.image{
+    position: relative;
+}
+.image p{
+    position:absolute;
+    top:50%;
+    left:50%
+}
